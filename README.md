@@ -1,6 +1,6 @@
 # Exercicios-Interfatec-2022
 
-Com a Participação no InterFateecs 2022, minha equipe (Cod3rs [our]) conseguiu resolver 5 dos 9 exercicios propostos.
+Com a Participação no InterFatecs 2022, minha equipe "Cod3rs [our]" conseguiu resolver 5 dos 9 exercicios propostos.
 
  - 🥉 Tentamos 8 desses 9 desafios
 > 1 não concluido <br>
