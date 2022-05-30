@@ -8,6 +8,6 @@ Com a Participação no InterFateecs 2022, minha equipe (Cod3rs [our]) conseguiu
 > 1 erro de compilação<br>
 
 
-- :books: Exercicios Resolvidos: <br>
+- :books: Exercicios Resolvidos <br>
 > Exercicios em Python: @JoaoAssalim <br>
 > Exercicios em C++: 	@Rafaelcoder18, @PedroCabral
