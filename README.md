@@ -10,4 +10,4 @@ Com a Participação no InterFatecs 2022, minha equipe "Cod3rs [our]" conseguiu 
 
 - :books: Exercicios Resolvidos <br>
 > Exercicios em Python: @JoaoAssalim <br>
-> Exercicios em C++: 	@Rafaelcoder18, @PedroCabral
+> Exercicios em C++: 	@Rafaelcoder18, @Hitador
