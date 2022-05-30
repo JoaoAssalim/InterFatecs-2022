@@ -6,3 +6,8 @@ Com a Participação no InterFateecs 2022, minha equipe (Cod3rs [our]) conseguiu
 > 1 não concluido <br>
 > 1 erro de escrita (operador lógico) <br>
 > 1 erro de compilação<br>
+
+
+- Exercicios Resolvidos
+Exercicios em Python: @JoaoAssalim
+Exercicios em C++: 	@Rafaelcoder18, @PedroCabral
